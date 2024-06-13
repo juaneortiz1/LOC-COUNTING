@@ -87,6 +87,8 @@ mvn test
 - **FileProcessorTest.java**: Tests for the `FileProcessor.java` class, ensuring correct file and directory handling, including wildcards and recursive file selection.
 
 - **LineCounterTest.java**: JUnit tests for the LineCounter.java class. Verifies the accuracy of counting physical and logical lines in a specified file.
+![image](https://github.com/juaneortiz1/LOC-COUNTING/assets/97971732/a5d8ac92-a2f5-4e16-ae6e-65dc76785cba)
+
 ![img.png](img.png)
 ## Built With
 
